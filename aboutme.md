@@ -16,20 +16,20 @@ What else do you need?
 
 To be honest, I'm having some trouble remembering right now and I will come back to this.
 
-## My fav books:
+### My fav books
 
 *  The Alchemist
 *  The Art of saying NO
 *  No Excuses
 
-## My fav atheltes
+### My fav athletes
 
- *  Micheal Jordon
+ *  Michael Jordon
  *  CR7
  *  Marco Reus
  *  David Silva
  
- ## My fav Movies
+### My fav Movies
   *  The Pursuit of Happiness
   *  Interstellar
   *  Dark Night
