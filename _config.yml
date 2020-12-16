@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
 #   facebook: "https://www.facebook.com/dinesh.shankar.54"
-#   github:  "https://github.com/dineshshan10"
+  github:  dineshshan10
 #   twitter: "https://twitter.com/explore/tabs/news"
 # #   patreon: DeanAttali
 # #   youtube: c/daattali
