@@ -16,7 +16,6 @@ author: Dinesh Shankar
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   My Blog: "http://dishanka.me"
 
@@ -40,13 +39,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: "https://www.facebook.com/dinesh.shankar.54"
+  github:  "https://github.com/dineshshan10"
+  twitter: "https://twitter.com/explore/tabs/news"
+#   patreon: DeanAttali
+#   youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: "https://www.linkedin.com/in/dishanka"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
