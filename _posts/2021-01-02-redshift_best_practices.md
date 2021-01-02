@@ -1,19 +1,11 @@
 ---
 layout: post
-title: Redshift Best Practices
+title: AWS Redshift Best Practices
 subtitle: Table Design Guide
 tags: [redshift]
 comments: true
 ---
-
-
-# Redshift Table Design Best Practices
-
-Amazon Redshift
-
-Amazon Redshift is a fully managed peta byte scale datawarehouse designed to handle large scale datasets, perform data analysis and business intelligence reporting.
-
-Redshift delivers fast query performance by using columnar storage technology to improve I/O efficiency and parallelizing queries across multiple nodes.
+Amazon Redshift is a fully managed peta byte scale datawarehouse designed to handle large scale datasets, perform data analysis and business intelligence reporting.Redshift delivers fast query performance by using columnar storage technology to improve I/O efficiency and parallelizing queries across multiple nodes.
 
 The scope of this article is to share the table design practices which showed significant performance improvements.
 
