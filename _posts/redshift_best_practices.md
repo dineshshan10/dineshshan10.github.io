@@ -1,3 +1,11 @@
+---
+layout: post
+title: Redshift Best Practices
+subtitle: Table Design Guide
+tags: [redshift]
+comments: true
+---
+
 
 # Redshift Table Design Best Practices
 
